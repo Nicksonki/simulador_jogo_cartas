@@ -1,3 +1,4 @@
+# iINICIO
 """
 Simulador de jogo de Blackjack.
 O objetivo é chegar o mais perto de 21 pontos sem ultrapassar.
